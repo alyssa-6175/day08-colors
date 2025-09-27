@@ -1,0 +1,81 @@
+@import url('style.css');
+
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex {
+    color: #2C8FF2;
+}
+
+body {
+    background-color: #2C8FF2;
+}
+
+
+.My-Color-Theme-2-hex {
+    color: #472CF2;
+}
+
+.My-Color-Theme-3-hex {
+    color: #2C50F2;
+}
+
+.My-Color-Theme-4-hex {
+    color: #2CCDF2;
+}
+
+.My-Color-Theme-5-hex {
+    color: #882CF2;
+}
+
+.My-Color-Theme-6-hex {
+    color: #7C92F2;
+}
+
+/* Color Theme Swatches in RGBA */
+.My-Color-Theme-1-rgba {
+    color: rgba(44, 143, 242, 1);
+}
+
+.My-Color-Theme-2-rgba {
+    color: rgba(71, 44, 242, 1);
+}
+
+.My-Color-Theme-3-rgba {
+    color: rgba(44, 80, 242, 1);
+}
+
+.My-Color-Theme-4-rgba {
+    color: rgba(44, 205, 242, 1);
+}
+
+.My-Color-Theme-5-rgba {
+    color: rgba(136, 44, 242, 1);
+}
+
+.My-Color-Theme-6-rgba {
+    color: rgba(124, 146, 242, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.My-Color-Theme-1-hsla {
+    color: hsla(210, 88, 56, 1);
+}
+
+.My-Color-Theme-2-hsla {
+    color: hsla(248, 88, 56, 1);
+}
+
+.My-Color-Theme-3-hsla {
+    color: hsla(229, 88, 56, 1);
+}
+
+.My-Color-Theme-4-hsla {
+    color: hsla(191, 88, 56, 1);
+}
+
+.My-Color-Theme-5-hsla {
+    color: hsla(267, 88, 56, 1);
+}
+
+.My-Color-Theme-6-hsla {
+    color: hsla(228, 81, 71, 1);
+}

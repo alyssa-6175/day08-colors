@@ -1,0 +1,35 @@
+/* horizontal nav bar */
+.horizontal-nav {
+    background-color: #472CF2;
+}
+
+.horizontal-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.horizontal-nav li {
+    margin-right: 20px;
+}
+
+.horizontal-nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 29px;
+    display: block;
+}
+
+/* Hover effect */
+.horizontal-nav a:hover {
+    background-color: #2C50F2;
+}
+
+/* Active (current page) link */
+.horizontal-nav a.active {
+    background-color: #04AA6D;
+    /* a green highlight */
+    font-weight: bold;
+    /* make it stand out */
+}
